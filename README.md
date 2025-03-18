@@ -152,5 +152,3 @@ Dự án được phát triển bởi 4 thành viên:
 
 
 © 2025 NHÓM 6, CNTT16-02, TRƯỜNG ĐẠI HỌC ĐẠI NAM
-"# Phat-hien-cu-chi-hanh-dong-canh-tay-bang-cam-bien-gia-toc" 
-"# Phat-hien-cu-chi-hanh-dong-canh-tay-bang-cam-bien-gia-toc" 
